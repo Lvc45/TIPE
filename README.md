@@ -72,4 +72,5 @@ Pour l'étude théorique, on se propose de partir sur le modèle cinématique si
 
 # Résultat de simulation python
 
-![Texte alternatif](images/1depass.png)
+![Texte alternatif](images/python.png)
+![Texte alternatif](images/pythonvibra.png)
