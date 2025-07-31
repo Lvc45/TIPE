@@ -60,4 +60,7 @@ Pour l'étude théorique, on se propose de partir sur le modèle cinématique si
 ![Texte alternatif](images/SchémaVolant.png)
 
 Étude du volant :
-  
+
+![Texte alternatif](images/BAME.png)
+![Texte alternatif](images/TMD.png)
+![Texte alternatif](images/Equadiff.png)
