@@ -17,3 +17,47 @@ L’étude permettra ainsi de quantifier l’écart entre la simulation et la r�
 Caractéristiques du volant :  
 - Rotation du volant de -135° à 135° (270° d’angle de rotation)
 - Diamètre du volant 280 mm
+
+![Texte alternatif](images/Volantangles.png)
+
+Caractéristiques des vibreurs :
+- Vibreur 1 :
+  - Poids 25
+  - Tension nominale 5V
+  - Courant nominale 150 mA
+  - Vitesse de rotation 2550 tr/min
+- Vibreur 2 :
+  - Poids 28g
+  - Tension nominale 5V
+  - Courant nominale 150 mA
+  - Vitesse de rotation 2550 tr/min
+ 
+![Texte alternatif](images/Vibreurs.png)
+
+Caractéristiques de l'accéléromètre : 
+- Arduino Uno (3.3V, GND, SCL ,SDL)
+- MPU6050
+
+![Texte alternatif](images/Accélé.png)
+
+![Texte alternatif](images/IMG_1878.jpg)
+![Texte alternatif](images/IMG_1879.jpg)
+
+Acquisition du mouvement du volant avec un oscilloscope par le biais d’un potentiomètre.
+
+![Texte alternatif](images/IMG_1877.jpg)
+
+# Résultat de l'étude expérimentale
+
+D’après les résultats obtenus avec et sans vibrations lors de l’acquisition, on constate que ces dernières ont peu voire aucun impact significatif sur le mouvement du volant.
+
+![Texte alternatif](images/MouvVolant.png)
+
+# Etude théorique
+
+Pour l'étude théorique, on se propose de partir sur le modèle cinématique simple suivant composé d'une liaison pivot comprenant en son sein un ressort.
+
+![Texte alternatif](images/SchémaVolant.png)
+
+Étude du volant :
+  
