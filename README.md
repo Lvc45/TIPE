@@ -64,3 +64,12 @@ Pour l'étude théorique, on se propose de partir sur le modèle cinématique si
 ![Texte alternatif](images/BAME.png)
 ![Texte alternatif](images/TMD.png)
 ![Texte alternatif](images/Equadiff.png)
+
+# Résultat de l'étude théorique
+
+![Texte alternatif](images/1depass.png)
+![Texte alternatif](images/2depass.png)
+
+# Résultat de simulation python
+
+![Texte alternatif](images/1depass.png)
